@@ -1,0 +1,1 @@
+the views folder is for all the templating htmls 

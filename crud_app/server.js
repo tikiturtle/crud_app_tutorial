@@ -6,6 +6,7 @@ const dotenv = require('dotenv')
 const morgan = require('morgan')
 const bodyparser = require('body-parser')
 const path = require('path')
+const ejs = require('ejs')
 
 const app = express()
 
